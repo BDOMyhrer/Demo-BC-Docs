@@ -19,3 +19,4 @@ rad.json
 .snapshots/
 cache_*
 ~$*
+Demo-BC-Docs/.vscode/launch.json
