@@ -12,7 +12,7 @@ page 50101 "BDN API Car Model"
     EntitySetName = 'carModels';
 
     ODataKeyFields = SystemId;
-    SourceTable = "Car Model";
+    SourceTable = "BDN Car Model";
 
     Extensible = false;
     DelayedInsert = true;
