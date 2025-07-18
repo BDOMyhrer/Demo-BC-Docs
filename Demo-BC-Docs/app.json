@@ -1,31 +1,18 @@
 {
-  "id": "d24d4ea5-4b05-4a73-8ddc-be65a9201cb9",
-  "name": "Demo-BC-Docs",
-  "publisher": "Myhrer.net",
+  "id": "315fa537-8fd9-4fb6-9aa3-b8d9992917f4",
+  "name": "CustomAPI",
+  "publisher": "BCTech",
   "version": "1.0.0.0",
-  "brief": "",
-  "description": "",
-  "privacyStatement": "",
-  "EULA": "",
-  "help": "",
-  "url": "",
-  "logo": "",
+  "brief": "Custom API with two API pages CarBrand and CarModel",
   "dependencies": [],
   "screenshots": [],
-  "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "platform": "26.0.0.0",
+  "application": "26.0.0.0",
   "idRanges": [
     {
       "from": 50100,
       "to": 50149
     }
   ],
-  "features": [
-    "NoImplicitWith"
-  ],
-  "resourceExposurePolicy": {
-    "allowDebugging": true,
-    "allowDownloadingSource": false,
-    "includeSourceInSymbolFile": false
-  }
+  "runtime": "15.0"
 }
