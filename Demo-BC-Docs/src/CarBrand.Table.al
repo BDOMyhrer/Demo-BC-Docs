@@ -2,6 +2,7 @@ table 50100 "BDN Car Brand"
 {
     DataClassification = CustomerContent;
     Caption = 'Car Brand';
+    
 
     fields
     {
