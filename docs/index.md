@@ -1,3 +1,3 @@
 # Root Index
 
-Help documentation for root
+Help documentation for BC Docs
